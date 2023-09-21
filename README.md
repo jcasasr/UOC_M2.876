@@ -18,3 +18,7 @@ Recomendamos los siguientes enlaces para poder instalar los componentes de softw
 - [Módulo 3. Generación de grafos sintéticos](./M3/)
 - [Módulo 4. Detección de comunidades](./M4/)
 - [Módulo 5. Difusión y propagación de la información](./M5/)
+- [Módulo 6. Redes multicapa](./M6/)
+- [Módulo 7. Hypergrafos y complejos simpliciales](./M7/)
+- [Módulo 8. Predicción de enlaces](./M8/)
+- [Módulo 9. GNN](./M9/)
